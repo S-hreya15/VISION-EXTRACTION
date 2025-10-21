@@ -19,6 +19,6 @@ pip install numpy matplotlib opencv-python pycocotools
 
 Vision_Extraction/
 │
-├── Vision_Extraction.ipynb   # Main notebook
-├── data/                     # (Optional) Folder for images and annotations
-└── README.md                 # Project documentation
+├── Vision_Extraction.ipynb  
+├── data/                     
+└── README.md               
